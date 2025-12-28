@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Shayan
 
-<!--
-**shayansan/shayansan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently building a strong foundation in cybersecurity, with a focus on understanding systems from the ground up.
 
-Here are some ideas to get you started:
+### Current focus
+- Linux fundamentals
+- Networking concepts
+- Ethical hacking basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About this GitHub
+This GitHub documents my learning journey through practical notes, experiments, and small projects as I progress toward more advanced security topics.
+
+I value solid fundamentals over shortcuts or tools without understanding.
+
