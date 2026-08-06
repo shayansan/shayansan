@@ -5,10 +5,9 @@ I'm currently building a strong foundation in cybersecurity, with a focus on und
 ### Current focus
 - Linux fundamentals
 - Networking concepts
-- Ethical hacking basics
+- IoT and ESP32 devices
 
 ### About this GitHub
-This GitHub documents my learning journey through practical notes, experiments, and small projects as I progress toward more advanced security topics.
+This GitHub documents my learning journey through practical notes, experiments, and projects as I progress toward more advanced security topics.
 
-I value solid fundamentals over shortcuts or tools without understanding.
 
