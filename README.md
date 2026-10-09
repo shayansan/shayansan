@@ -6,7 +6,7 @@ embedded systems, IoT security and low-level systems.
 ## Current Focus
 - Linux & system internals
 - Computer networking
-- C/C++
+- C
 - ESP32 & embedded systems
 - IoT security
 - Python & data analysis
@@ -23,7 +23,7 @@ Languages:
 Python | C | C++ | SQL | Bash
 
 Systems:
-Linux | Git | Networking | Docker
+Linux | Git | Networking 
 
 Embedded:
 ESP32 | PlatformIO | Arduino Framework
