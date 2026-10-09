@@ -1,13 +1,32 @@
-## Hi, I'm Shayan
+Hi, I'm Shayan 👋
 
-I'm currently building a strong foundation in cybersecurity, with a focus on understanding systems from the ground up.
+B.Sc. Data Analysis student interested in cybersecurity,
+embedded systems, IoT security and low-level systems.
 
-### Current focus
-- Linux fundamentals
-- Networking concepts
-- IoT and ESP32 devices
+## Current Focus
+- Linux & system internals
+- Computer networking
+- C/C++
+- ESP32 & embedded systems
+- IoT security
+- Python & data analysis
+- Cybersecurity labs
 
-### About this GitHub
-This GitHub documents my learning journey through practical notes, experiments, and projects as I progress toward more advanced security topics.
+## Featured Projects
+Cybersecurity Foundations
+Library Reservation Bot
+ESP32 / TinyML Project
+Future IoT Security Lab
 
+## Technical Stack
+Languages:
+Python | C | C++ | SQL | Bash
 
+Systems:
+Linux | Git | Networking | Docker
+
+Embedded:
+ESP32 | PlatformIO | Arduino Framework
+
+Security:
+Wireshark | Nmap | Burp Suite | ...
